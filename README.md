@@ -1,5 +1,4 @@
-#  Opa, Bem-vindo ao meu perfil do GitHub.
-## Me chamo Eduardo, tenho 16 anos e estudo na Alura.
+#  Opa! Eu sou o Eduardo Esser
 
 ## Contatos:
 
