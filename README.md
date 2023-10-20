@@ -1,5 +1,5 @@
-#  Hello! Welcome to my Github profile.
-## My name is Eduardo and my nickname is "Torcedor do Timão"!
+#  Opa, Bem-vindo ao meu perfil do GitHub.
+## Me chamo Eduardo, tenho 16 anos e estudo na Alura.
 
 ## Contatos:
 
