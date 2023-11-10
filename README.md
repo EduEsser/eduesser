@@ -1,4 +1,4 @@
-u#  Opa! Eu sou o Edu Esser 😄🚀 
+# Opa! Eu sou o Edu Esser 😄🚀 
 
 ## Contatos:
 <div>
