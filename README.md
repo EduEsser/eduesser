@@ -1,4 +1,4 @@
-#  Opa! Eu sou o Edu Esser 😄🚀 
+u#  Opa! Eu sou o Edu Esser 😄🚀 
 
 ## Contatos:
 <div>
@@ -14,7 +14,7 @@
 <div>
 <br>
 <div>
-<a href="https://github.com/TorcedoTimao">
+<a href="https://github.com/EduEsser">
   
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduEsser&layout=compact&langs_count=7&theme=dracula"/>
 
