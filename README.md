@@ -15,5 +15,6 @@
 <br>
 <div>
 <a href="https://github.com/TorcedoTimao">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorcedorTimao&layout=compact&langs_count=7&theme=dracula"/>
+  
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduEsser&layout=compact&langs_count=7&theme=dracula"/>
 
